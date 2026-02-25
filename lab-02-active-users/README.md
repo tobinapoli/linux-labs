@@ -1,2 +1,2 @@
-This script shows active users from O.S.
-The main difference between w and who is that w shows more details in the output
+This script displays the currently logged-in users in the operating system.
+The main difference between w and who is that w provides more detailed session information.
